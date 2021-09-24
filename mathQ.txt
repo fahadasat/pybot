@@ -1,0 +1,39 @@
+  2 + 5 x 6 = ? 32
+  2.7182 is the approximation for which variable used in logarithms? E
+  What is a line drawn from an angle of a triangle to the midpoint of the opposite side is a(n) _______? Median
+  What is a triangle with three equal sides is called _______? Equilateral
+  What is a triangle with two equal sides is called __________? Isosceles
+  What is an angle greater than 90 degrees and less than 180 degrees is said to be _________? Obtuse
+  What is an angle greater than 90 degrees is said to be _________? Obtuse
+  What is an integer that is greater than 1 and is divisible only by itself and 1 is known as a(n) _______? Prime
+  Approximately how many inches are there in one meter? Thirty nine
+  Benoit Mandelbrot discovered what mathematical structures? Fractals
+  How many corners are there in a cube? Eight
+  How many different letters are used in the roman numeral system? Seven
+  How many nickles are there in $2.25? 45
+  If you count from 1 to 100, how many 7's will you come across? 20
+  If you cut through a solid sphere what shape will the flat area be? Circle
+  Name the number system which uses only the symbols 1 and 0? The binary system
+  Solve this: 10*3+2? 32
+  The angles inside a square total _______ degrees? 360
+  The first antiderivative of acceleration is? Velocity
+  The mathematical study of properties of lines, angels, etc., is ________? Geometry
+  The space occupied by a body is called its ______? Volume
+  The square root of 1 is? 1
+  Two angles that total 180 degrees are called _______? Supplementary
+  What geometric shape has 4 equal sides? Square
+  What is 65% of 60? 39
+  What is next in the series 1 8 27 ?? 125 216? 64
+  What is the maximum number of integer degrees in a reflex angle? 359
+  What is the maximum number of integer degrees in an acute angle? 89
+  What is the maximum number of integer degrees in an obtuse angle? 179
+  What is the minimum number of integer degrees in a reflex angle? 181
+  What is the minimum number of integer degrees in an acute angle? One
+  What is the minimum number of integer degrees in an obtuse angle? 91
+  What is the name given to a curve that approaches a line, but never quite touches it? Asymptote
+  What is the name given to the number equal to 10 raised to the power of 100? A \"googol\"
+  What is the only digit that has the same number of letters as its value? Four
+  What is the square root of -1 ? I
+  What is the square root of one quarter? One half
+  What is x to the power of zero equal to? One
+  Who invented logarithms ? John Napier
